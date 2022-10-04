@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 - I'm Troy Martin
 
-<!--
-**tmartin8080/tmartin8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **software engineer** specializing in **Elixir Development & Training**, **Elixir/OTP** principles, and **System Architecture & Design**.
+The goal I constantly pursue is to learn something new everyday and teach as much as I can.
 
-Here are some ideas to get you started:
+### 👨‍💻 NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working at **[GetThru](https://www.getthru.io)** as a **Principal Software Engineer**.
+- Learning about **RabbitMQ**, **Broadway**, and **Data Intensive Applications**.
+- Writing about the technology at **[devato.com](https://devato.com)**
+
+### 📨 GET IN TOUCH
+
+- E-mail: troy@devato.com
+- Twitter: [tmartin8080](https://twitter.com/tmartin8080)
+
+----
+
