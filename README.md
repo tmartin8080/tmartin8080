@@ -1,11 +1,10 @@
 ### Hi there 👋 - I'm Troy Martin
 
-I am a **software engineer** specializing in **Elixir Development & Training**, **Elixir/OTP** principles, and **System Architecture & Design**.
+**Senior+ Software Engineer** specializing in **Elixir Development & Training**, **Elixir/OTP** principles, and **System Architecture & Design**.
 
 ### 👨‍💻 NOW
 
-- I’m currently working at **[GetThru](https://www.getthru.io)** as a **Principal Software Engineer**.
-- Learning about **RabbitMQ**, **Broadway**, and **Data Intensive Applications**.
+- Currently working at **[GetThru](https://www.getthru.io)** as a **Principal Software Engineer**.
 - Writing about technology at **[devato.com](https://devato.com)**
 
 ### 📨 GET IN TOUCH
