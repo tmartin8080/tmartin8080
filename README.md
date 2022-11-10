@@ -1,11 +1,9 @@
 ### Hi there 👋 - I'm Troy Martin
 
-**Senior+ Software Engineer** specializing in **Elixir Development & Training**, **Elixir/OTP** principles, and **System Architecture & Design**.
+**Senior+ Software Engineer** - Elixir Development & Training, Elixir/OTP principles and System Design.
 
-### 👨‍💻 NOW
-
-- Currently working at **[GetThru](https://www.getthru.io)** as a **Principal Software Engineer**.
-- Writing about technology at **[devato.com](https://devato.com)**
+Currently working at **[GetThru](https://www.getthru.io)** as a **Principal Software Engineer**.
+Writing about technology at **[devato.com](https://devato.com)**
 
 ### 📨 GET IN TOUCH
 
