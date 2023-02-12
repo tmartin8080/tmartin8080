@@ -8,7 +8,7 @@ Writing about technology at **[readreplica.io](https://www.readreplica.io)**
 
 ### Contact
 
-- E-mail: troy@devato.com
+- E-mail: hello@readreplica.io
 - Twitter: [tmartin8080](https://twitter.com/tmartin8080)
 
 ----
